@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ALC Three Activities</string>
+    <string name="home_header">Welcome To ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+</resources>
